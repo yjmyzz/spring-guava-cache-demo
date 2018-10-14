@@ -1,1 +1,1 @@
-## spring cache + guava + redis 
+## spring-guava cache-demo 
